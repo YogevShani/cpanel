@@ -1,4 +1,3 @@
----
 deployment:
   tasks:
     - export DEPLOYPATH=/home/yogevsh/public_html/github/add_user/
