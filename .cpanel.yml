@@ -2,4 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/yogevsh/public_html/
-    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp add_user.html $DEPLOYPATH
+    - /bin/cp add_user.php $DEPLOYPATH
