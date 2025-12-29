@@ -1,4 +1,5 @@
+---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/yogevsh/public_html/github/add_user/
-    - /bin/cp -R * $DEPLOYPATH
+    - export DEPLOYPATH=/home/yogevsh/public_html/
+    - /bin/cp -R images $DEPLOYPATH
